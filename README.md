@@ -128,7 +128,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<operation mul.png>)
-![alt text](<operation mul out.png>)
+![alt text](1ex8.png)
+![alt text](2ex8.png)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
